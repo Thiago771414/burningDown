@@ -19,9 +19,6 @@ O Burn Down Chart permite que a equipe e os stakeholders acompanhem o progresso 
 
 Além disso, o gráfico facilita a identificação de padrões e tendências ao longo do tempo, permitindo que a equipe faça previsões mais precisas sobre o tempo necessário para concluir o trabalho remanescente.
 
-## epic burndown chart
-![Imagem](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAP4A…9vXjXsPD3j+5d32G5/weCsCKABxtvhwAAAABJRU5ErkJggg==)
-
 ## Atlassian Jira Burn Down
 [Documentação](https://www.atlassian.com/agile/tutorials/burndown-charts#:~:text=What%20is%20a%20burndown%20chart,work%20in%20the%20time%20available.)
 
